@@ -16,9 +16,8 @@ Cloud Platforms: Google Cloud, AWS
 
 📂 Featured Projects
 
-Customer Churn PredictionBuilt a logistic regression model to predict customer churn with 85% accuracy using Python and Scikit-learn.
-Sales DashboardCreated an interactive Tableau dashboard to visualize quarterly sales trends across regions.
-RFM AnalysisConducted RFM analysis with SQL to segment customers for targeted marketing campaigns.
+HR Dashboard:![HR Dashdoard pdf](https://github.com/Chaisoman/Gershom-Data-Analysist/commit/4f8d09a0a34370219b1ec0a58fca4fad0d830259)
+[HR Dashboard]()
 
 🏆 Certifications
 
