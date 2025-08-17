@@ -9,8 +9,11 @@ Hi, I'm Gershom, a Data Analyst passionate about turning data into actionable in
 
 🛠️ Skills
 
-Languages: Python, SQL, R
-Tools: BigQuery, Tableau, Power BI, Git
+[Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+[SQL](https://img.shields.io/badge/SQL-Standard-green)
+[Tableau](https://img.shields.io/badge/Tableau-Desktop-orange)
+- Languages: Python, SQL, R
+- Tools: BigQuery, Tableau, Power BI, Git
 Techniques: Data Cleaning, Statistical Analysis, Data Visualization, ETL Processes
 Cloud Platforms: Google Cloud, AWS
 
@@ -25,6 +28,8 @@ Google Cloud Data Analytics Professional Certificate
 
 
 📈 GitHub Stats
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaisoman&show_icons=true&theme=radical)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaisoman&layout=compact&theme=radical)
 
 🌟 Fun Facts
 
