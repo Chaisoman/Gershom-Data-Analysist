@@ -17,7 +17,7 @@ Cloud Platforms: Google Cloud, AWS
 📂 Featured Projects
 
 HR Dashboard:![HR Dashdoard pdf](https://github.com/Chaisoman/Gershom-Data-Analysist/commit/4f8d09a0a34370219b1ec0a58fca4fad0d830259)
-[HR Dashboard]()
+[HR Dashboard](https://github.com/Chaisoman/Gershom-Data-Analysist/commit/2e34ff53793adec9370439f2c304a298b91d15a9)
 
 🏆 Certifications
 
